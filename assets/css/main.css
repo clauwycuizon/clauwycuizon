@@ -1,3 +1,11 @@
+.blog_link {
+  color: black; }
+
+.blog_loop {
+  position: absolute;
+  top: 60px;
+  left: 175px; }
+
 body {
   background-color: #f3f3f3;
   margin: 0;
@@ -45,21 +53,13 @@ body {
   z-index: 0; }
 
 .logo {
-  background-image: url(img/logo-cc.svg);
+  background-image: url(../img/logo-cc.svg);
   background-repeat: no-repeat;
   width: 230px;
   height: 230px;
   position: absolute;
   top: 85px;
   left: 950px; }
-
-.blog_link {
-  color: black; }
-
-.blog_loop {
-  position: absolute;
-  top: 70px;
-  left: 175px; }
 
 .socialmedia_links2 {
   color: black;
