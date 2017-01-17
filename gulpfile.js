@@ -67,7 +67,7 @@ gulp.task('pug', function(){
  * Watch html/md files/pug files, run jekyll & reload BrowserSync
  */
 gulp.task('watch', function () {
-    gulp.watch('assets/css/*.scss', ['sass']);
+    gulp.watch('assets/css/**', ['sass']);
     gulp.watch(['*.html', '_layouts/*.html', '_includes/*'], ['jekyll-rebuild']);
     gulp.watch(['_pugfiles/*.pug'], ['pug']);
 });
