@@ -8,7 +8,7 @@
   top: 20px; }
 
 .post_date {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
   text-align: center;
   color: Grey; }
 
@@ -28,7 +28,7 @@
           box-shadow: 6px 10px 23px -5px rgba(0, 0, 0, 0.75); }
 
 .keep_reading {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
   font-size: 18px;
   text-decoration: none;
   color: Grey; }
