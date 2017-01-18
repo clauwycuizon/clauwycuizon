@@ -195,6 +195,7 @@ a.see_more {
   color: brown; }
 
 .blog_article {
+  padding-top: 10px;
   background-color: #ffffff;
   font-family: 'Open Sans', sans-serif;
   position: relative;
@@ -211,3 +212,9 @@ h2 {
 
 .meta {
   text-align: center; }
+
+.post {
+  position: relative;
+  width: 600px;
+  margin-left: 50px;
+  padding-bottom: 20px; }
