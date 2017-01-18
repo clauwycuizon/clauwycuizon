@@ -193,3 +193,21 @@ a.see_more {
   font-size: 12px;
   text-decoration: none;
   color: brown; }
+
+.blog_article {
+  background-color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+  position: relative;
+  width: 700px;
+  top: 70px;
+  left: 175px;
+  -webkit-border-radius: 5px;
+          border-radius: 5px;
+  -webkit-box-shadow: 6px 10px 23px -5px rgba(0, 0, 0, 0.75);
+          box-shadow: 6px 10px 23px -5px rgba(0, 0, 0, 0.75); }
+
+h2 {
+  text-align: center; }
+
+.meta {
+  text-align: center; }

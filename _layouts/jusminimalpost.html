@@ -1,0 +1,16 @@
+---
+layout: jusminimal
+title: Claudine Cuizon
+---
+
+{% include header.html %}
+{% include side_bar.html %}
+
+<div class="blog_article">
+	<h2>{{ page.title }}</h2>
+	<p class="meta">{{ page.date | date_to_long_string }}</p>
+
+	<div class="post">
+		{{ content }}
+	</div>
+</div>

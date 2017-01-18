@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: jusminimalpost
 title: My Third Blog Post
 author: Claudine Cuizon
 ---

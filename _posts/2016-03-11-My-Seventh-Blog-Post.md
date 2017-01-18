@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: jusminimalpost
 title: My Seventh Blog Post
 author: Claudine Cuizon
 ---
