@@ -4,14 +4,20 @@ title: Claudine Cuizon
 ---
 
 {% include header.html %}
+{% include side_bar.html %}
 
 
-  <div class="blog_loop">
+  <div class="blog_container">
 	  <ul class="posts">
 	    {% for post in site.posts %}
-			<li><span>{{ post.date | date_to_string }}</span> &raquo; <a class="blog_link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-			<li><span>{{ post.excerpt }}</span></li>
-			<a href="{{ site.baseurl }}{{ post.url }}" class="button button-primary">Keep Reading</a>
+	    <div class="blog_loop">
+			<h1><a class="post_link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br /></h1>
+			<span class="post_date">{{ post.date | date_to_long_string }}</span>
+			<span class="post_excerpt">{{ post.excerpt }}</span>
+			<div class="keep_reading_button">
+				<a class="keep_reading" href="{{ site.baseurl }}{{ post.url }}" class="button button-primary">KEEP READING</a>
+			</div>
+		</div>
 	    {% endfor %}
 	  </ul>
   </div>

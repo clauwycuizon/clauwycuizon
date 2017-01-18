@@ -1,15 +1,49 @@
-.blog_link {
-  color: black; }
+.post_link {
+  text-decoration: none;
+  color: black;
+  position: relative;
+  top: 20px; }
+
+.post_date {
+  text-align: center;
+  color: Grey; }
+
+.blog_container {
+  position: absolute;
+  top: 70px;
+  left: 175px; }
 
 .blog_loop {
-  position: absolute;
-  top: 60px;
-  left: 175px; }
+  background-color: #ffffff;
+  height: 410px;
+  width: 660px;
+  text-align: center;
+  -webkit-border-radius: 5px;
+          border-radius: 5px;
+  -webkit-box-shadow: 6px 10px 23px -5px rgba(0, 0, 0, 0.75);
+          box-shadow: 6px 10px 23px -5px rgba(0, 0, 0, 0.75); }
+
+.keep_reading {
+  text-decoration: none;
+  color: Grey; }
+
+.keep_reading_button {
+  display: block;
+  position: relative;
+  top: 5px;
+  left: -190px; }
+
+.post_excerpt {
+  display: block;
+  text-align: justify;
+  position: relative;
+  margin-left: 80px;
+  margin-top: 200px;
+  width: 500px; }
 
 body {
   background-color: #f3f3f3;
   margin: 0;
-  height: 2000px;
   overflow-x: hidden; }
   body li {
     float: left;
@@ -20,14 +54,14 @@ body {
   background-color: #484547;
   height: 50px;
   width: 1366px;
-  position: absolute;
+  position: fixed;
   top: 0px;
   z-index: 1; }
 
 .socialmedia_links {
-  position: absolute;
+  position: fixed;
   top: 0px;
-  left: 900px; }
+  left: 750px; }
   .socialmedia_links li {
     margin-right: 10px; }
   .socialmedia_links a {
@@ -35,9 +69,9 @@ body {
     color: white; }
 
 .navigation_links {
-  position: absolute;
+  position: fixed;
   top: 0px;
-  left: 175px; }
+  left: 220px; }
   .navigation_links a {
     text-decoration: none;
     color: white; }
@@ -50,6 +84,8 @@ body {
   position: absolute;
   top: 420px;
   left: 915px;
+  -webkit-box-shadow: 6px 10px 23px -9px rgba(0, 0, 0, 0.75);
+          box-shadow: 6px 10px 23px -9px rgba(0, 0, 0, 0.75);
   z-index: 0; }
 
 .logo {
@@ -64,10 +100,30 @@ body {
 .socialmedia_links2 {
   color: black;
   position: absolute;
+  width: 100%;
   top: 360px;
-  left: 840px; }
+  left: 840px;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+      -ms-flex: 1;
+          flex: 1; }
   .socialmedia_links2 li {
     margin-right: 10px; }
   .socialmedia_links2 a {
     text-decoration: none;
     color: black; }
+
+.about_me {
+  color: black;
+  text-align: left; }
+
+.about_me_container {
+  position: absolute;
+  width: 250px;
+  height: 300px;
+  top: 780px;
+  left: 915px; }
+
+a.see_more {
+  text-decoration: none;
+  color: brown; }

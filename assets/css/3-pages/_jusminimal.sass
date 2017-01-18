@@ -1,7 +1,6 @@
 body
 	background-color: #f3f3f3
 	margin: 0
-	height: 2000px
 	overflow-x: hidden
 
 	li 
@@ -11,31 +10,32 @@ body
 	
 
 .navcontainer
-		background-color: #484547
-		height: 50px
-		width: 1366px
-		position: absolute
-		top: 0px
-
-		z-index: 1
+	background-color: #484547
+	height: 50px
+	width: 1366px
+	position: fixed
+	top: 0px
+	z-index: 1
 
 .socialmedia_links
-	position: absolute
+	position: fixed
 	top: 0px
-	left: 900px
+	left: 750px
 	li
 		margin-right: 10px
 	a
 		text-decoration: none
 		color: white
+	
 
 .navigation_links
-	position: absolute
+	position: fixed
 	top: 0px
-	left: 175px
+	left: 220px
 	a
 		text-decoration: none
 		color: white
+	
 
 .profile
 	border-radius: 8px
@@ -44,6 +44,7 @@ body
 	position: absolute
 	top: 420px
 	left: 915px
+	box-shadow: 6px 10px 23px -9px rgba(0,0,0,0.75)
 	z-index: 0
 
 .logo
@@ -59,6 +60,7 @@ body
 .socialmedia_links2
 	color: black
 	position: absolute
+	width: 100%
 	top: 360px
 	left: 840px
 	li
@@ -66,10 +68,21 @@ body
 	a
 		text-decoration: none
 		color: black
+	flex: 1
 
-	
+.about_me
+	color: black
+	text-align: left
 
-
+.about_me_container
+	position: absolute
+	width: 250px
+	height: 300px
+	top: 780px
+	left: 915px
+a.see_more
+	text-decoration: none
+	color: brown
 
 
 
