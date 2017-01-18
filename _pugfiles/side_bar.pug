@@ -1,12 +1,20 @@
 .logo
 
+div.hr_before
+	hr
 .side_navcontainer
 	ul.socialmedia_links2
-			li: a(href="#") Facebook
-			li: a(href="#") Twitter
-			li: a(href="#") Instagram
-			li: a(href="#") Pinterest
-			li: a(href="#") Rss Feed
+		li: a(href="#")
+			img.facebook(src="{{site.baseurl}}/assets/img/fb_logo.svg")
+		li: a(href="#")
+			img.twitter(src="{{site.baseurl}}/assets/img/twitter_logo.svg")
+		li: a(href="#")
+			img.instagram(src="{{site.baseurl}}/assets/img/instagram_logo.svg") 
+		li: a(href="#")
+			img.youtube(src="{{site.baseurl}}/assets/img/youtube_logo.svg")  
+		li: a(href="#")
+div.hr_after
+	hr
 
 img.profile(src= "{{site.baseurl}}/assets/img/profile.jpg")
 
@@ -14,3 +22,4 @@ div.about_me_container
 	p.about_me Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi elementum venenatis pellentesque. Praesent tincidunt magna vitae dolor congue egestas. Nunc non facilisis nulla, consectetur tempus arcu. Suspendisse nec nibh pulvinar, sagittis diam quis, cursus metus. Vivamus ac ligula quis orci convallis luctus id id ante.
 	a.see_more(href="#") 
 		p SEE MORE.
+
