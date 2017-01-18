@@ -1,10 +1,14 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:600i");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans+Condensed:700");
 .post_link {
+  font-family: 'Open Sans', sans-serif;
   text-decoration: none;
   color: black;
   position: relative;
   top: 20px; }
 
 .post_date {
+  font-family: 'Open Sans', sans-serif;
   text-align: center;
   color: Grey; }
 
@@ -15,7 +19,7 @@
 
 .blog_loop {
   background-color: #ffffff;
-  height: 410px;
+  height: 450px;
   width: 660px;
   text-align: center;
   -webkit-border-radius: 5px;
@@ -24,6 +28,8 @@
           box-shadow: 6px 10px 23px -5px rgba(0, 0, 0, 0.75); }
 
 .keep_reading {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
   text-decoration: none;
   color: Grey; }
 
@@ -34,12 +40,28 @@
   left: -190px; }
 
 .post_excerpt {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
   display: block;
   text-align: justify;
   position: relative;
   margin-left: 80px;
   margin-top: 200px;
   width: 500px; }
+
+.hr_before_keep_reading_button {
+  position: relative;
+  width: 600px;
+  height: 10px;
+  top: 0px;
+  left: 25px; }
+
+.hr_after_keep_reading_button {
+  position: relative;
+  width: 600px;
+  height: 10px;
+  top: 10px;
+  left: 25px; }
 
 body {
   background-color: #f3f3f3;
@@ -86,6 +108,7 @@ img.youtube {
   height: 30px; }
 
 .navigation_links {
+  font-family: 'Open Sans Condensed', sans-serif;
   position: fixed;
   top: 0px;
   left: 220px; }
@@ -153,6 +176,8 @@ hr {
   left: 915px; }
 
 .about_me {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
   color: black;
   text-align: left; }
 
@@ -164,5 +189,7 @@ hr {
   left: 915px; }
 
 a.see_more {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
   text-decoration: none;
   color: brown; }
