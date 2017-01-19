@@ -4,7 +4,7 @@ title: My First Entry
 author: Claudine Cuizon
 ---
 
-**Year 2017**. WOW! Did 2016 just flew by like that? I can hardly remember taking any moments to stop and rest because I feel like I was all over the place in 2016.
+**Year 2017**. WOW! Did 2016 just flew by like that? I can hardly remember taking any moments to stop and rest because I feel like I was all over the place in 2016. 
 
 -----
 
