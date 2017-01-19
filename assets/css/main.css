@@ -228,7 +228,8 @@ a.copyright_link {
   -webkit-border-radius: 5px;
           border-radius: 5px;
   -webkit-box-shadow: 6px 10px 23px -5px rgba(0, 0, 0, 0.75);
-          box-shadow: 6px 10px 23px -5px rgba(0, 0, 0, 0.75); }
+          box-shadow: 6px 10px 23px -5px rgba(0, 0, 0, 0.75);
+  margin-bottom: 100px; }
 
 h2 {
   text-align: center; }
