@@ -1,6 +1,6 @@
 ---
 layout: jusminimalpost
-title: My Seventh Blog Post
+title: My First Entry
 author: Claudine Cuizon
 ---
 
