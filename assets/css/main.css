@@ -21,7 +21,7 @@
 
 .blog_loop {
   background-color: #ffffff;
-  height: 450px;
+  height: 600px;
   width: 660px;
   text-align: center;
   -webkit-border-radius: 5px;
@@ -38,8 +38,8 @@
 .keep_reading_button {
   display: block;
   position: relative;
-  top: 5px;
-  left: -190px; }
+  top: 140px;
+  left: -350px; }
 
 .post_excerpt {
   font-family: 'Open Sans', sans-serif;
@@ -53,17 +53,17 @@
 
 .hr_before_keep_reading_button {
   position: relative;
-  width: 600px;
+  width: 800px;
   height: 10px;
-  top: 0px;
-  left: 25px; }
+  top: 180px;
+  left: -200px; }
 
 .hr_after_keep_reading_button {
   position: relative;
-  width: 600px;
+  width: 800px;
   height: 10px;
-  top: 10px;
-  left: 25px; }
+  top: 100px;
+  left: -200px; }
 
 body {
   background-color: #f3f3f3;
@@ -242,3 +242,11 @@ h2 {
   width: 600px;
   margin-left: 50px;
   padding-bottom: 20px; }
+
+.img-excerpt {
+  position: relative;
+  display: inline-block;
+  top: 0px;
+  float: left;
+  margin-left: 0px;
+  padding-right: 10px; }
