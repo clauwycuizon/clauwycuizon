@@ -4,14 +4,18 @@
 // 0 - TOOLS
 //@import '0-tools/bourbon/bourbon'
 @import '0-tools/fonts';
+@import '0-tools/normalize';
 
 // 1 - BASICS
 
 
 
 // 2 - Modules
-@import '2-modules/blog_preview';
+@import '2-modules/blog_list';
+@import '2-modules/header';
+@import '2-modules/side_bar';
+@import '2-modules/footer';
 
 // 3 - pages
-@import '3-pages/jusminimal';
+@import '3-pages/home';
 @import '3-pages/jusminimal_blog_posts';

@@ -3,43 +3,10 @@ layout: jusminimal
 title: Claudine Cuizon
 ---
 
-{% include header.html %}
-{% include side_bar.html %}
-{% include footer.html %}
 
-
-    <ul class="posts">
-    {% for post in site.posts %}
-        <div class="blog_loop_container">
-            <div class="post_link_container">
-                <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br /></h1>
-            </div>
-            <div class="post_date_container">
-                <p>{{ post.date | date_to_long_string }}</p>
-            </div>
-            {% assign foundImage = 0 %}
-            {% assign images = post.content | split:"<img " %}
-            {% for image in images %}
-                {% if image contains 'src' %}
-                    {% if foundImage == 0 %}
-                        {% assign html = image | split:"/>" | first %}
-                        <img class="featured_image" {{ html }} />
-                        {% assign foundImage = 1 %}
-                    {% endif %}
-                {% endif %}
-            {% endfor %}
-            <div class="post_excerpt_container">
-                <span class="post_excerpt">{{ post.excerpt }}</span>
-            </div>
-            <div class="hr_before_keep_reading_button">
-                <hr />
-            </div>
-            <div class="keep_reading_button">
-                <a href="{{ site.baseurl }}{{ post.url }}" class="button button-primary">KEEP READING</a>
-            </div>
-            <div class="hr_after_keep_reading_button">
-                <hr />
-            </div>
-        </div>
-    {% endfor %}
-    </ul>
+<div class="page_wrap">
+    {% include header.html %}
+    {% include side_bar.html %}
+    {% include footer.html %}
+    {% include blog_list.html %}
+</div>
