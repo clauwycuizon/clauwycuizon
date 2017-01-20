@@ -52,7 +52,9 @@ I desire to grow more in the love and grace of our Lord Jesus Christ. That is wh
 
 And to you who’s reading this, THANK YOU! :P You could be a close friend, a classmate, a friend, a stranger, but I thank you for dropping by and getting curious about me advertising myself (probably in facebook haha)
 
-Cheers to more intentional deeds! Is there anything you've been meaning to do but haven't found the time to do it? This is our year! And I’d like to put it here to remind myself: “You always have time, IF YOU MAKE TIME.”
+ Is there anything you've been meaning to do but haven't found the time to do so? This is our year! Cheers!
 
-See you around. <3 
+ And I’d like to put it here to remind myself: “You always have time, IF YOU MAKE TIME.”
+
+See you around, Clauwy. <3 
 
