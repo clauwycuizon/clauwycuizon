@@ -24,20 +24,34 @@ I don’t have anything specific to put up in here, but I pray that whoever may 
 So, uhmmm (awkward smile). How about we start with the basics?
 
 Hi! My name is **Venice Claudine Capuno Cuizon**. You can call me **_Clauwy_**.
+
 I am 24 years young (although I can still be able to convince someone I am 17 haha).
+
 I am in my junior year in medschool (wooohoooo!!!! Laban lang!!!)
+
 I am a registered nurse.
+
 I love Jesus Christ! <3
+
 I love to laugh and play around, but I am focused on what needs to be done (meaning I can be serious if I have to)
+
 I love baking, cooking, painting, BABIEEEEEEEEES, my friends, my family, and makeup! 
 
 I love PINK but I learned to appreciate yellow now that I’m older. It just brings so much sunshine and happiness.
+
 I love seafoods! 
+
 I love bandaids.
+
 I don’t share umbrellas. Sahree.
+
 I am a people-person. If you ask me if what I’ll bring if I’m on an island alone, NEVER MIND. I cant live ALONE. =))))
+
 I desire to grow more in the love and grace of our Lord Jesus Christ. That is why I enjoy waking up every morning because I get to know Him better everyday.
+
 And to you who’s reading this, THANK YOU! :P You could be a close friend, a classmate, a friend, a stranger, but I thank you for dropping by and getting curious about me advertising myself (probably in facebook haha)
+
 Cheers to more intentional deeds! And I’d like to put it here to remind myself. “You always have time, IF YOU MAKE TIME.”
+
 See you around.  
 
