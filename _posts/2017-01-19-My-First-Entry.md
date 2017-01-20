@@ -18,9 +18,10 @@ A few days after the new year, my very kind and loving (haha) brother, offered t
 
 When I wrote my goals for this year just before the clock ticked 12 mn in time for 2017, I prayed to God to sanctify the things that I have written. True indeed, He made a way for me in one of my goals – through my brother. (Thank you Kuya for this!)
 
-Anyway, my motivation for my blogs ever since wasn’t (and ISN’T) the number of readers I get, but plainly for me.(Wow selfish? Haha) I’ve always loved writing and sometime in the future, I know looking back to my entries would bring so much delight to my spirit. I am a memory hoarder and writing is one way of capturing a moment. To share the details, to know what’s running inside your mind, and to be able to relive your experience during those moments. This is the reward of documentation. haha
+Anyway, my motivation for my blogs ever since wasn’t (and ISN’T) the number of readers I get, but plainly for me.(Wow selfish? Haha) I’ve always loved writing and I know that sometime in the future, looking back to my entries would bring so much delight to my spirit. I am a memory hoarder and writing is one way of capturing a moment -- To share the details, to know what’s running inside your mind, and to be able to relive your experience during those moments. This is the reward of documentation! haha
 
 I don’t have anything specific to put up in here, but I pray that whoever may stumble upon my blog will find it useful, fun and a blessing. 
+
 So, uhmmm (awkward smile). How about we start with the basics?
 
 Hi! My name is **Venice Claudine Capuno Cuizon**. You can call me **_Clauwy_**.
