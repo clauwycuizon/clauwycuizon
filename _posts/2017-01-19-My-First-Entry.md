@@ -25,7 +25,7 @@ So, uhmmm (awkward smile). How about we start with the basics?
 
 Hi! My name is **Venice Claudine Capuno Cuizon**. You can call me **_Clauwy_**.
 
-I am 24 years young (although I can still be able to convince someone I am 17 haha).
+I am 20-ish years young (although I can still be able to convince someone I am 17 haha).
 
 I am in my junior year in medschool (wooohoooo!!!! Laban lang!!!)
 
@@ -45,9 +45,9 @@ I love bandaids.
 
 I don’t share umbrellas. Sahree.
 
-I am a people-person. If you ask me if what I’ll bring if I’m on an island alone, NEVER MIND. I cant live ALONE. =))))
+I am a people-person. If you ask me if what I’ll bring if I’m on an island alone, NEVER MIND. I can't live ALONE. =))))
 
-I desire to grow more in the love and grace of our Lord Jesus Christ. That is why I enjoy waking up every morning because I get to know Him better everyday.
+I desire to grow more in the love and grace of our Lord Jesus Christ. That is why I enjoy waking up every morning because I get to know Him better everyday through the different ups and downs of my life.
 
 And to you who’s reading this, THANK YOU! :P You could be a close friend, a classmate, a friend, a stranger, but I thank you for dropping by and getting curious about me advertising myself (probably in facebook haha)
 
