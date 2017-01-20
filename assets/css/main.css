@@ -253,3 +253,6 @@ h2 {
 .center-image {
   margin: 0 auto;
   display: block; }
+
+#disqus_thread {
+  padding: 25px; }
