@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: True
 title: My First Entry
 author: Claudine Cuizon
 ---
@@ -22,8 +22,6 @@ Anyway, my motivation for my blogs ever since wasn’t (and ISN’T) the number 
 
 I don’t have anything specific to put up in here, but I pray that whoever may stumble upon my blog will find it useful, fun and a blessing. 
 So, uhmmm (awkward smile). How about we start with the basics?
-
-![profile](/assets/img/first_blogpost_img.jpg){: .center-image }
 
 Hi! My name is **Venice Claudine Capuno Cuizon**. You can call me **_Clauwy_**.
 I am 24 years young (although I can still be able to convince someone I am 17 haha).
