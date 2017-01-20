@@ -1,68 +1,76 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:600i");
 @import url("https://fonts.googleapis.com/css?family=Open+Sans+Condensed:700");
 @import url("https://fonts.googleapis.com/css?family=Lato:100");
-.post_link {
-  font-family: 'Open Sans', sans-serif;
-  text-decoration: none;
-  color: black;
-  position: relative;
-  top: 20px; }
-
-.post_date {
-  font-family: 'Open Sans Condensed', sans-serif;
-  text-align: center;
-  color: Grey; }
-
-.blog_container {
+.blog_loop_container {
   position: absolute;
   top: 70px;
   left: 175px;
-  margin-bottom: 100px; }
-
-.blog_loop {
+  margin-bottom: 100px;
   background-color: #ffffff;
   height: 450px;
   width: 660px;
-  text-align: center;
   -webkit-border-radius: 5px;
           border-radius: 5px;
   -webkit-box-shadow: 6px 10px 23px -5px rgba(0, 0, 0, 0.75);
           box-shadow: 6px 10px 23px -5px rgba(0, 0, 0, 0.75); }
 
-.keep_reading {
-  font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 18px;
-  text-decoration: none;
-  color: Grey; }
-
-.keep_reading_button {
-  display: block;
+.post_link_container {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
   position: relative;
-  top: 5px;
-  left: -190px; }
+  top: 0px;
+  left: 0px; }
+  .post_link_container a {
+    text-decoration: none;
+    color: black; }
+
+.post_date_container {
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
+  color: Grey;
+  position: relative;
+  top: -25px; }
+
+.featured_image {
+  position: relative;
+  width: 250px;
+  height: 187.5px;
+  top: 0px;
+  left: 50px; }
 
 .post_excerpt {
   font-family: 'Open Sans', sans-serif;
   font-size: 14px;
   display: block;
-  text-align: justify;
+  text-align: left;
   position: relative;
-  margin-left: 80px;
-  margin-top: 200px;
-  width: 500px; }
+  margin-left: 320px;
+  margin-top: -150px;
+  width: 300px; }
 
 .hr_before_keep_reading_button {
   position: relative;
   width: 600px;
   height: 10px;
-  top: 0px;
+  top: 110px;
   left: 25px; }
+
+.keep_reading_button {
+  display: block;
+  position: relative;
+  top: 115px;
+  left: 50px; }
+  .keep_reading_button a {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    color: Grey; }
 
 .hr_after_keep_reading_button {
   position: relative;
   width: 600px;
   height: 10px;
-  top: 10px;
+  top: 120px;
   left: 25px; }
 
 body {
@@ -238,7 +246,10 @@ h2 {
   text-align: center; }
 
 .post {
-  position: relative;
   width: 600px;
   margin-left: 50px;
   padding-bottom: 20px; }
+
+.center-image {
+  margin: 0 auto;
+  display: block; }

@@ -1,5 +1,6 @@
 ---
-layout: jusminimalpost
+layout: post
+comments: true
 title: My First Entry
 author: Claudine Cuizon
 ---
@@ -7,6 +8,8 @@ author: Claudine Cuizon
 **Year 2017**. WOW! Did 2016 just flew by like that? I can hardly remember taking any moments to stop and rest because I feel like I was all over the place in 2016. 
 
 -----
+
+![profile](/assets/img/first_blogpost_img.jpg){: .center-image }
 
 This year, one of my goals is to **WRITE MORE**.
 I’ve always loved keeping up-to-date with my *journal* and *planner*, and ever since high school I **TRIED** to maintain my blogs. (Multiply, Xanga, Tmblr, Wordpress). Like I said I felt like I’ve been all over the place. But I want to give myself a better chance in growing this year. That means I have to be more focused on the things I want to do, and be better in letting go some of the things that I find not adding value to my life (Char.) 
@@ -19,6 +22,8 @@ Anyway, my motivation for my blogs ever since wasn’t (and ISN’T) the number 
 
 I don’t have anything specific to put up in here, but I pray that whoever may stumble upon my blog will find it useful, fun and a blessing. 
 So, uhmmm (awkward smile). How about we start with the basics?
+
+![profile](/assets/img/first_blogpost_img.jpg){: .center-image }
 
 Hi! My name is **Venice Claudine Capuno Cuizon**. You can call me **_Clauwy_**.
 I am 24 years young (although I can still be able to convince someone I am 17 haha).
