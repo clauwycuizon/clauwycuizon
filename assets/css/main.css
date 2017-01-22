@@ -840,6 +840,18 @@ body, html {
     height: 100%;
     top: 50px; }
 
+.blog_article_container {
+  display: relative;
+  width: 960px;
+  margin: 0 auto;
+  text-align: center; }
+
+.side_bar_container {
+  position: relative;
+  width: 260px;
+  height: 100%;
+  top: 50px; }
+
 @media (min-width: 960px) and (max-width: 1200px) {
   .page_container {
     position: relative;
@@ -864,7 +876,17 @@ body, html {
       position: relative;
       width: 240px;
       height: 100%;
-      top: 50px; } }
+      top: 50px; }
+  .blog_article_container {
+    display: relative;
+    width: 700px;
+    margin: 0 auto;
+    text-align: center; }
+  .side_bar_container {
+    position: relative;
+    width: 240px;
+    height: 100%;
+    top: 50px; } }
 
 @media (min-width: 801px) and (max-width: 960px) {
   .page_container {
@@ -890,7 +912,19 @@ body, html {
       height: 100%;
       top: 50px;
       margin: 0 auto;
-      text-align: center; } }
+      text-align: center; }
+  .blog_article_container {
+    display: block;
+    width: 700px;
+    margin: 0 auto;
+    text-align: center; }
+  .side_bar_container {
+    position: relative;
+    width: 700px;
+    height: 100%;
+    top: 50px;
+    margin: 0 auto;
+    text-align: center; } }
 
 @media (min-width: 501px) and (max-width: 800px) {
   .page_container {
@@ -917,7 +951,20 @@ body, html {
       top: 30px;
       left: 0px;
       margin: 0 auto;
-      text-align: center; } }
+      text-align: center; }
+  .blog_article_container {
+    display: block;
+    width: 490px;
+    margin: 0 auto;
+    text-align: center; }
+  .side_bar_container {
+    position: relative;
+    width: 490px;
+    height: 100%;
+    top: 30px;
+    left: 0px;
+    margin: 0 auto;
+    text-align: center; } }
 
 @media (min-width: 50px) and (max-width: 500px) {
   .page_container {
@@ -948,8 +995,15 @@ body, html {
   .blog_article_container {
     display: block;
     width: 290px;
-    margin: 0px;
-    padding: 0px; } }
+    margin: 0px auto; }
+  .side_bar_container {
+    position: relative;
+    width: 290px;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    margin: 0 auto;
+    text-align: center; } }
 
 .blog_article_container {
   padding-top: 10px;
@@ -958,7 +1012,7 @@ body, html {
   position: relative;
   width: 700px;
   top: 90px;
-  left: 175px;
+  left: 0px;
   -webkit-border-radius: 5px;
           border-radius: 5px;
   -webkit-box-shadow: 6px 10px 23px -5px rgba(0, 0, 0, 0.75);
@@ -983,6 +1037,45 @@ h2 {
 #disqus_thread {
   padding: 25px; }
 
+@media (min-width: 960px) and (max-width: 1200px) {
+  .blog_article_container {
+    top: 0px;
+    left: 0px;
+    width: 700px; }
+    .blog_article_container .post {
+      position: relative;
+      width: 670px;
+      margin: 0 auto; }
+    .blog_article_container .center-image {
+      width: 600px;
+      height: 450px; } }
+
+@media (min-width: 801px) and (max-width: 960px) {
+  .blog_article_container {
+    top: 0px;
+    left: 0px;
+    width: 700px; }
+    .blog_article_container .post {
+      position: relative;
+      width: 670px;
+      margin: 0 auto; }
+    .blog_article_container .center-image {
+      width: 600px;
+      height: 450px; } }
+
+@media (min-width: 501px) and (max-width: 800px) {
+  .blog_article_container {
+    top: 0px;
+    left: 0px;
+    width: 490px; }
+    .blog_article_container .post {
+      position: relative;
+      width: 460px;
+      margin: 0 auto; }
+    .blog_article_container .center-image {
+      width: 400px;
+      height: 300px; } }
+
 @media (min-width: 50px) and (max-width: 500px) {
   .blog_article_container {
     top: 0px;
@@ -990,9 +1083,8 @@ h2 {
     width: 290px; }
     .blog_article_container .post {
       position: relative;
-      width: 290px;
-      margin-top: 0px;
-      margin-left: 0px; }
+      width: 260px;
+      margin: 0 auto; }
     .blog_article_container .center-image {
       width: 250px;
       height: 187.5px; } }
