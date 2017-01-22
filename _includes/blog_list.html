@@ -1,4 +1,4 @@
-<ul class="posts">{% for post in site.posts %}<div class="posts_loop_container"><div class="post_link_container"><h1> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} <br /></a></h1></div><div class="post_date_container"><p>{{ post.date | date_to_long_string }}</p></div>{% assign foundImage = 0 %}
+<div class="blog_list_container"><ul class="posts">{% for post in site.posts %}<div class="posts_loop_container"><div class="post_link_container"><h1> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} <br /></a></h1></div><div class="post_date_container"><p>{{ post.date | date_to_long_string }}</p></div>{% assign foundImage = 0 %}
 {% assign images = post.content | split:"<img " %}
 {% for image in images %}
 {% if image contains 'src' %}
@@ -8,4 +8,4 @@
 {% assign foundImage = 1 %}
 {% endif %}
 {% endif %}
-{% endfor %}<div class="post_excerpt_container"><span class="post_excerpt">{{ post.excerpt }}</span></div><div class="top_border_keep_reading_button"><hr/></div><div class="keep_reading_button"><a href="{{ site.baseurl }}{{ post.url }}"><p>KEEP READING</p></a></div><div class="bottom_border_keep_reading_button"><hr/></div></div>{% endfor %}</ul>
+{% endfor %}<div class="post_excerpt_container"><span class="post_excerpt">{{ post.excerpt }}</span></div><div class="top_border_keep_reading_button"><hr/></div><div class="keep_reading_button"><a href="{{ site.baseurl }}{{ post.url }}"><p>KEEP READING</p></a></div><div class="bottom_border_keep_reading_button"><hr/></div></div>{% endfor %}</ul></div>

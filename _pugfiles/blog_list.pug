@@ -1,34 +1,35 @@
-ul.posts
-	|{% for post in site.posts %}
-	.posts_loop_container
-		.post_link_container
-			h1 
-				a(href="{{ site.baseurl }}{{ post.url }}")
-					|{{ post.title }} <br />
-		.post_date_container
-			p
-				|{{ post.date | date_to_long_string }}
+.blog_list_container
+	ul.posts
+		|{% for post in site.posts %}
+		.posts_loop_container
+			.post_link_container
+				h1 
+					a(href="{{ site.baseurl }}{{ post.url }}")
+						|{{ post.title }} <br />
+			.post_date_container
+				p
+					|{{ post.date | date_to_long_string }}
 
-		|{% assign foundImage = 0 %}
-		|{% assign images = post.content | split:"<img " %}
-		|{% for image in images %}
-		|{% if image contains 'src' %}
-		|{% if foundImage == 0 %}
-		|{% assign html = image | split:"/>" | first %}
-		|<img class="featured_image" {{ html }} />
-		|{% assign foundImage = 1 %}
-		|{% endif %}
-		|{% endif %}
+			|{% assign foundImage = 0 %}
+			|{% assign images = post.content | split:"<img " %}
+			|{% for image in images %}
+			|{% if image contains 'src' %}
+			|{% if foundImage == 0 %}
+			|{% assign html = image | split:"/>" | first %}
+			|<img class="featured_image" {{ html }} />
+			|{% assign foundImage = 1 %}
+			|{% endif %}
+			|{% endif %}
+			|{% endfor %}
+			
+			.post_excerpt_container
+				span.post_excerpt
+					|{{ post.excerpt }}
+			.top_border_keep_reading_button
+				hr
+			.keep_reading_button
+				a(href="{{ site.baseurl }}{{ post.url }}")
+						p KEEP READING
+			.bottom_border_keep_reading_button
+				hr
 		|{% endfor %}
-		
-		.post_excerpt_container
-			span.post_excerpt
-				|{{ post.excerpt }}
-		.top_border_keep_reading_button
-			hr
-		.keep_reading_button
-			a(href="{{ site.baseurl }}{{ post.url }}")
-					p KEEP READING
-		.bottom_border_keep_reading_button
-			hr
-	|{% endfor %}

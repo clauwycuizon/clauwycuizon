@@ -1,29 +1,92 @@
-header
+header.outside_wrapper
 	width: 100%
 	height: 50px
-	background: #484547
-	padding: 1px 0px
+	background:
+		image: url(../img/outside_wrapper.jpg)
+		repeat: repeat-x
+	padding: 1px 0
 
-	nav
-		width: 410px
+.page_container
+	header.inside_wrapper
+		padding: 1px 0
 		height: 50px
-		//border-style: solid
-		margin-left: 175px
-	
-	.site_navigation
-		list-style: none
-		margin-left: 0px
-		padding-left: 0px
-		
-		li
-			float: left
-			margin-right: 50px 
+		background:
+			image: url(../img/inside_wrapper.jpg)
+			repeat: repeat-x
 
-			&:last-child
-				margin-right: 0px
-			a
+		.header_wrapper
+			width: 900px
+			height: 50px
+			margin-left: 0px
+			margin-top: 5px
+
+		.header_navigation
+			list-style: none
+			margin: 0px
+			padding: 0px
+			li
+				display: inline
+				margin-right: 50px
+				a
+					font-family: 'Open Sans Condensed', sans-serif;
+					font-size: 18px
+					text-decoration: none
+					color: white
+
+	//Mobile Navigation
+	.header_navigation_mobile
+		display: none
+		position: absolute
+		width: 100%
+		background: #484547
+		transform: translateY(-100%)
+		transition: all 0.3s ease-in-out
+
+		ul
+			list-style: none
+			margin: 0px
+			padding: 0px
+			li 
+				text-align: center
+				display: block
+				margin-left: 0px
+				margin-bottom: 15px
+			a 
 				font-family: 'Open Sans Condensed', sans-serif;
 				text-decoration: none
-				color: white
+				color: black
 
+	.mobile_navigation_button
+			display: none
+			background:
+				image: url(../img/menu.svg)
+				repeat: no-repeat
+			width: 40px
+			height: 40px
+			z-index: 1
+
+		
+
+//Small Monitors, Tablets and Smart Phones
+@media (min-width: 50px) and (max-width: 800px)
+	header.inside_wrapper
+		width: auto
+
+		.header_wrapper
+			position: relative
+			top: auto
+			bottom: auto
+			left: auto
+			align-items: center
+
+		.header_navigation
+			display: none
 	
+		.mobile_navigation_button
+			display: block
+			margin-top: 0px
+			margin-left: 20px
+
+	.header_navigation_mobile.is_open
+		display: block
+		transform: translateY(0%)	

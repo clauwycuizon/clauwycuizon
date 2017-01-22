@@ -18,15 +18,14 @@ A few days after the new year, my very kind and loving (haha) brother, offered t
 
 When I wrote my goals for this year just before the clock ticked 12 mn in time for 2017, I prayed to God to sanctify the things that I have written. True indeed, He made a way for me in one of my goals – through my brother. (Thank you Kuya for this!)
 
-Anyway, my motivation for my blogs ever since wasn’t (and ISN’T) the number of readers I get, but plainly for me.(Wow selfish? Haha) I’ve always loved writing and I know that sometime in the future, looking back to my entries would bring so much delight to my spirit. I am a memory hoarder and writing is one way of capturing a moment -- To share the details, to know what’s running inside your mind, and to be able to relive your experience during those moments. This is the reward of documentation! haha
+Anyway, my motivation for my blogs ever since wasn’t (and ISN’T) the number of readers I get, but plainly for me.(Wow selfish? Haha) I’ve always loved writing and sometime in the future, I know looking back to my entries would bring so much delight to my spirit. I am a memory hoarder and writing is one way of capturing a moment. To share the details, to know what’s running inside your mind, and to be able to relive your experience during those moments. This is the reward of documentation. haha
 
 I don’t have anything specific to put up in here, but I pray that whoever may stumble upon my blog will find it useful, fun and a blessing. 
-
 So, uhmmm (awkward smile). How about we start with the basics?
 
 Hi! My name is **Venice Claudine Capuno Cuizon**. You can call me **_Clauwy_**.
 
-I am 20-ish years young (although I can still be able to convince someone I am 17 haha).
+I am 24 years young (although I can still be able to convince someone I am 17 haha).
 
 I am in my junior year in medschool (wooohoooo!!!! Laban lang!!!)
 
@@ -46,15 +45,13 @@ I love bandaids.
 
 I don’t share umbrellas. Sahree.
 
-I am a people-person. If you ask me if what I’ll bring if I’m on an island alone, NEVER MIND. I can't live ALONE. =))))
+I am a people-person. If you ask me if what I’ll bring if I’m on an island alone, NEVER MIND. I cant live ALONE. =))))
 
-I desire to grow more in the love and grace of our Lord Jesus Christ. That is why I enjoy waking up every morning because I get to know Him better everyday through the different ups and downs of my life.
+I desire to grow more in the love and grace of our Lord Jesus Christ. That is why I enjoy waking up every morning because I get to know Him better everyday.
 
 And to you who’s reading this, THANK YOU! :P You could be a close friend, a classmate, a friend, a stranger, but I thank you for dropping by and getting curious about me advertising myself (probably in facebook haha)
 
- Is there anything you've been meaning to do but haven't found the time to do so? This is our year! Cheers!
+Cheers to more intentional deeds! And I’d like to put it here to remind myself. “You always have time, IF YOU MAKE TIME.”
 
- And I’d like to put it here to remind myself: “You always have time, IF YOU MAKE TIME.”
-
-See you around, Clauwy. <3 
+See you around.  
 

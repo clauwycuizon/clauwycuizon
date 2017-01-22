@@ -1,24 +1,33 @@
-header
-	nav
-			ul.site_navigation
-				li: a(href="{{site.baseurl}}/index.html") HOME
-				li: a(href="#") BROWSE  
-				li: a(href="#") ABOUT
-				li: a(href="#") PRESS
-				li: a(href="#") WORK
-				
+mixin  navigation_content
+	ul
+		li: a(href="{{site.baseurl}}/index.html") HOME
+				li: a(href="#") ABOUT  
+				li: a(href="#") CONTACT
+				li: a(href="#") 
+				li: a(href="#") 
 
-	//
-		ul.socialmedia_links
-			li: a(href="#")
-				img.facebook(src="{{site.baseurl}}/assets/img/fb_logo2.svg")
-			li: a(href="#")
-				img.twitter(src="{{site.baseurl}}/assets/img/twitter_logo2.svg")
-			li: a(href="#")
-				img.instagram(src="{{site.baseurl}}/assets/img/instagram_logo2.svg") 
-			li: a(href="#")
-				img.youtube(src="{{site.baseurl}}/assets/img/youtube_logo2.svg")  
-			li: a(href="#") 
+.header_navigation_mobile
+		+navigation_content
+
+header.inside_wrapper
+	.header_wrapper
+		nav.header_navigation
+			+navigation_content
+				
+		.mobile_navigation_button
+			
+
+//
+	ul.socialmedia_links
+		li: a(href="#")
+			img.facebook(src="{{site.baseurl}}/assets/img/fb_logo2.svg")
+		li: a(href="#")
+			img.twitter(src="{{site.baseurl}}/assets/img/twitter_logo2.svg")
+		li: a(href="#")
+			img.instagram(src="{{site.baseurl}}/assets/img/instagram_logo2.svg") 
+		li: a(href="#")
+			img.youtube(src="{{site.baseurl}}/assets/img/youtube_logo2.svg")  
+		li: a(href="#") 
 
 			
 
