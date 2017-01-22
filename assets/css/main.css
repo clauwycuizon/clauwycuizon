@@ -944,9 +944,14 @@ body, html {
       top: 30px;
       left: 0px;
       margin: 0 auto;
-      text-align: center; } }
+      text-align: center; }
+  .blog_article_container {
+    display: block;
+    width: 290px;
+    margin: 0px;
+    padding: 0px; } }
 
-.blog_article {
+.blog_article_container {
   padding-top: 10px;
   background-color: #ffffff;
   font-family: 'Open Sans', sans-serif;
@@ -977,3 +982,17 @@ h2 {
 
 #disqus_thread {
   padding: 25px; }
+
+@media (min-width: 50px) and (max-width: 500px) {
+  .blog_article_container {
+    top: 0px;
+    left: 0px;
+    width: 290px; }
+    .blog_article_container .post {
+      position: relative;
+      width: 290px;
+      margin-top: 0px;
+      margin-left: 0px; }
+    .blog_article_container .center-image {
+      width: 250px;
+      height: 187.5px; } }
