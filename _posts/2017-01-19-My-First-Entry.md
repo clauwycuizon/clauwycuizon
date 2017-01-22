@@ -1,7 +1,8 @@
 ---
-layout: post
-comments: True
 title: My First Entry
+date: 2017-01-19 00:00:00 Z
+layout: post
+comments: true
 author: Claudine Cuizon
 ---
 
