@@ -6,12 +6,12 @@ date: 2017-01-22 13:58:00 Z
 In one of the most terrifying points in my life, this is the story that a friend reminded me. I believe we’re so familiar with it. But sometimes familiarity causes us to overlook a beautiful revelation hidden amidst a very common Bible story.
 
 
-![rsz_1final.jpg](/uploads/rsz_1final.jpg)\
+![rsz_1final.jpg](/uploads/rsz_1final.jpg)
 It gave me a better perspective, and when burdensome situations come, this revelation reminds me of where my faith stands on.
 
 \*\*Luke 8:22 -25 \*\*
 
-### *22 One day Jesus got into a boat with his disciples and said to them, “Let us go across to the other side of the lake.” So they started out.
+ *22 One day Jesus got into a boat with his disciples and said to them, “Let us go across to the other side of the lake.” So they started out.
 
 
 23 As they were sailing, Jesus fell asleep. Suddenly a strong wind blew down on the lake, and the boat began to fill with water, so that they were all in great danger.
@@ -23,7 +23,7 @@ Jesus got up and gave an order to the wind and to the stormy water; they quieted
 
 When the strong winds blew down and threatened the lives of the disciples, they lost track of what Jesus had said when He got into the boat. - “Let us go across to the other side of the lake.”
 
-### 
+ 
 
 Are you somewhere in your life too that everything just feels too much? That the situation isn’t really looking like what you hoped for? That you feel the strong winds of life are bringing you down and the waters are making you breathless?
 
