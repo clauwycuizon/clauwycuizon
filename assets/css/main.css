@@ -423,8 +423,10 @@ template {
   .posts .post_link_container {
     position: relative;
     top: 90px;
-    left: 350px;
-    font-family: 'Open Sans', sans-serif; }
+    left: 300px;
+    width: 280px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center; }
     .posts .post_link_container h1 a {
       text-decoration: none;
       color: black; }
