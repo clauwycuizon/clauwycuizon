@@ -5,7 +5,7 @@ date: 2017-01-22 13:58:00 Z
 
 In one of the most terrifying points in my life, this is the story that a friend reminded me. I believe we’re so familiar with it. But sometimes familiarity causes us to overlook a beautiful revelation hidden amidst a very common Bible story.
 
-![rsz_1final.jpg](/uploads/rsz_1final.jpg)
+![rsz_1final.jpg](/uploads/rsz_1final.jpg){: .center-image }
 It gave me a better perspective, and when burdensome situations come, this revelation reminds me of where my faith stands on.
 
 \*\*Luke 8:22 -25 \*\*
