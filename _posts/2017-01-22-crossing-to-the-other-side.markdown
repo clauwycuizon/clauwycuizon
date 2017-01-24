@@ -1,6 +1,9 @@
 ---
-title: To the Other Side
-date: 2017-01-22 13:58:00 Z
+title: My First Entry
+date: 2017-01-19 00:00:00 Z
+layout: post
+comments: true
+author: Claudine Cuizon
 ---
 
 In one of the most terrifying points in my life, this is the story that a friend reminded me. I believe we’re so familiar with it. But sometimes familiarity causes us to overlook a beautiful revelation hidden amidst a very common Bible story.
