@@ -52,13 +52,13 @@ Then just like what Jesus told His disciples, He’s also telling you now, “Le
 
 If you believe God can get you through it, He will! Hold on to God’s Word, and know that it is only **FAITH** that pleases Him.
 
-The other side may mean victory, safe land, peace, restoration, (probably graduation haha), greener pastures, achieving your dreams, or in my case, finishing med school.
+The other side may mean victory, safe land, peace, restoration, (probably as simple as passing a quiz haha), greener pastures, achieving your dreams, or in my case, finishing med school.
 
 We all have different storms and different “other sides”. But one thing’s for sure – When we put our faith in the One who never fails, we will get to the other side of the lake, no matter what.
 
 Just to stimulate your thoughts, I challenge you to think of one thing that is a storm to your life right now -- and think about the "other side" of where you're going. Wow, beautiful isn't it? I pray for you that you'll find a better perspective of what you are going through; that the waves be fun and the journey worthwhile. You're gonna get there, my friend! :)
 
 
-Strong winds may threaten your life, and some water may go inside the boat, but when we BELIEVE and TRUST that by all means – You shall reach the other side.
+Strong winds may threaten your life, and some water may go inside the boat, but when you BELIEVE and TRUST what God had said,then by all means – You shall reach the other side.
 
 God bless you! A happy week ahead of you! <3
