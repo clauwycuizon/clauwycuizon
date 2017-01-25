@@ -1,9 +1,10 @@
 ---
 title: Crossing to The Other Side
 date: 2017-01-21 00:00:00 Z
-layout: post
+published: false
 comments: true
 author: Claudine Cuizon
+layout: post
 ---
 
 In one of the most terrifying points in my life, this is the story that a friend reminded me. I believe we’re so familiar with it. But sometimes familiarity causes us to overlook a beautiful revelation hidden amidst a very common Bible story.
