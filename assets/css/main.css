@@ -631,7 +631,7 @@ header.outside_wrapper {
 .page_container .header_navigation_mobile {
   display: none;
   position: absolute;
-  width: 100%;
+  width: 290px;
   background: #484547;
   -webkit-transform: translateY(-100%);
       -ms-transform: translateY(-100%);
@@ -920,7 +920,7 @@ body, html {
     .home_container .blog_list_container {
       position: relative;
       width: 700px;
-      top: 0px;
+      top: 50px;
       left: 0px;
       margin-bottom: 50px; }
     .home_container .side_bar_container {
