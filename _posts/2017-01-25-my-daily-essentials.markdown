@@ -3,9 +3,11 @@ title: My Daily Essentials
 date: 2017-01-25 02:43:00 Z
 ---
 
+I love talking to my friends about our favorite items in our kikay kits and so I figured why not also share some of my few daily essentials that could probably also help some of you out there if you’re not into putting things in your face but wanting to try something out. ;)
+
+
 ![rsz_presentation1.jpg](/uploads/rsz_presentation1.jpg){: .center-image }
 
-I love talking to my friends about our favorite items in our kikay kits and so I figured why not also share some of my few daily essentials that could probably also help some of you out there if you’re not into putting things in your face but wanting to try something out. ;)
 
 I will talk about it chronologically (which product gets to enjoy my face first—to last haha!)
 
@@ -17,11 +19,11 @@ This is a water-based moisturizer and if you like wearing foundations, BB creams
 
 ![rsz_dsc_0833.jpg](/uploads/rsz_dsc_0833.jpg){: .center-image }
 
-Next is my favorite powder. This one is the Shiseido baby powder. I bought it for 350 pesos at Agent Dolly’s online shop [here](https://www.facebook.com/agentdolly/). It’s so gentle to the skin and I’ve read testimonies about acne-prone skin who have found this powder a match made in heaven ;) Personally for me, I like how it doesn’t oil me up and feels very refreshing to the skin. And the packaging! Although it has no mirror, I love the puff it comes with and how it really is just like used for baby’s bum. Hahaha Another baby powder I would highly recommend is the Pigeon baby face powder. This brand is really for babies; as a matter of fact, I bought it at the baby’s section at Gaisano Mall. (hihi) After I emptied it out, I wasn’t able to purchase another one because it’s difficult to find. Gladly I learned about a baby powder Shiseido also offers. :) 
+Next is my favorite powder. This one is the Shiseido baby powder. I bought it for 350 pesos at Agent Dolly’s online shop [here](https://www.facebook.com/agentdolly/). It’s so gentle to the skin and I’ve read testimonies about acne-prone skin who have found this powder a match made in heaven ;) Personally for me, I like how it doesn’t oil me up and feels very refreshing to the skin. And the packaging! Although it has no mirror, I love the puff it comes with and how it really is just like used for baby’s bum. Hahaha Another baby powder I would highly recommend is the Pigeon baby face powder. This brand is really for babies; as a matter of fact, I bought it at the baby’s section at Gaisano Mall. (hihi) After I emptied it out, I wasn’t able to purchase another one because it’s difficult to find. Gladly I learned about a baby powder Shiseido also offers. :)
 
 ![rsz_dsc_0837.jpg](/uploads/rsz_dsc_0837.jpg){: .center-image }
 
-These two have been my best friends in my eyebrow game. I don’t usually do “on fleek” brows because I like it to be as subtle as possible. I like it just clean and fresh. I presently have colored hair and so I have to use a brow mascara to give it a lighter shade. A lighter eyebrow shade can give us a younger look, you can try it for yourself! 
+These two have been my best friends in my eyebrow game. I don’t usually do “on fleek” brows because I like it to be as subtle as possible. I like it just clean and fresh. I presently have colored hair and so I have to use a brow mascara to give it a lighter shade. A lighter eyebrow shade can give us a younger look, you can try it for yourself!
 
 I can’t even begin to describe this Sophie Cheek and Lip tint. This is like a hidden treasure (hahaha!) As a matter of fact, I discovered this is also what was in Nadine Lustre’s “what’s in my makeup bag”. Aside from that, a great makeup artist friend of mine and his BFF choreographer also adores this product. I remember the day we altogether knew we loved the same product. We got all giddy and excited! *soul sister moment* *high pitch eeeeek*
 Liptints. I am one liptint girl! I have nothing against the lipsticks and lipcreams but for everyday use, I loooooooove liptints! As a child I loved eating candies and ice creams that leave stains on my lips. (probably because without saying anything, it shows to the entire universe that you ate something cool earlier hahaha) My 1st ever tint was the Ever Bilena tint packaged in a tube. But it had the worst taste ever! I’m not saying we eat these products but hey, at least invest on something that tastes good. =)) I also used Nichido’s lip and cheek tint, and then the Tony Moly tints, but presently I am enjoying my KJM lip and cheek tints. I highly suggest this to all of you who are starting out in lip tints. They are sold online and are very affordable. I bought mine for 110 pesos here.
