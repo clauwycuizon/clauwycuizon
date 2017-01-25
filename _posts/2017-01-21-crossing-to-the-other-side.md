@@ -1,6 +1,6 @@
 ---
 title: Crossing to The Other Side
-date: 2017-01-19 00:00:00 Z
+date: 2017-01-21 00:00:00 Z
 layout: post
 comments: true
 author: Claudine Cuizon
