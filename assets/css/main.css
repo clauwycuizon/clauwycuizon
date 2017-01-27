@@ -637,7 +637,8 @@ header.outside_wrapper {
       -ms-transform: translateY(-100%);
           transform: translateY(-100%);
   -webkit-transition: all 0.3s ease-in-out;
-  transition: all 0.3s ease-in-out; }
+  transition: all 0.3s ease-in-out;
+  z-index: 2; }
   .page_container .mobile_Nav_content ul {
     list-style: none;
     margin: 0px;
@@ -646,11 +647,14 @@ header.outside_wrapper {
       text-align: center;
       display: block;
       margin-left: 0px;
-      margin-bottom: 15px; }
+      margin-top: 10px;
+      margin-bottom: 20px; }
     .page_container .mobile_Nav_content ul a {
       font-family: 'Open Sans Condensed', sans-serif;
       font-size: 19px;
       text-decoration: none;
+      width: 100%;
+        width-height: 100%;
       color: black; }
 
 .page_container .mobile_navigation_button {
