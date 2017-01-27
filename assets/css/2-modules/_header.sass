@@ -34,7 +34,7 @@ header.outside_wrapper
 					color: white
 
 	//Mobile Navigation
-	.header_navigation_mobile
+	.mobile_Nav_content
 		display: none
 		position: absolute
 		width: 290px
@@ -53,6 +53,7 @@ header.outside_wrapper
 				margin-bottom: 15px
 			a 
 				font-family: 'Open Sans Condensed', sans-serif;
+				font-size: 19px
 				text-decoration: none
 				color: black
 
@@ -64,6 +65,10 @@ header.outside_wrapper
 			width: 40px
 			height: 40px
 			z-index: 1
+
+	.is_open
+		display: block
+		transform: translateY(0%)	
 
 
 //Small Monitors, Tablets and Smart Phones
@@ -86,6 +91,4 @@ header.outside_wrapper
 			margin-top: 0px
 			margin-left: 20px
 
-	.header_navigation_mobile.is_open
-		display: block
-		transform: translateY(0%)	
+	

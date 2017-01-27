@@ -1,12 +1,13 @@
 mixin  navigation_content
 	ul
 		li: a(href="{{site.baseurl}}/index.html") HOME
-				li: a(href="#") ABOUT  
-				li: a(href="#") CONTACT
-				li: a(href="#") 
-				li: a(href="#") 
+		li: a(href="#") ABOUT  
+		li: a(href="#") CONTACT
+		li: a(href="#") 
+		li: a(href="#") 
 
 .header_navigation_mobile
+	#mobile_Nav.mobile_Nav_content
 		+navigation_content
 
 header.inside_wrapper
@@ -14,7 +15,7 @@ header.inside_wrapper
 		nav.header_navigation
 			+navigation_content
 		
-		img.mobile_navigation_button(onclick="toggleMenu()")(src="{{site.baseurl}}/assets/img/menu.svg")
+		button.mobile_navigation_button(onclick="toggleMenu()")
 			
 
 //
