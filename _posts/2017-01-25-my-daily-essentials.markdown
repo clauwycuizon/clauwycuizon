@@ -1,6 +1,7 @@
 ---
 title: My Daily Essentials
 date: 2017-01-25 02:43:00 Z
+published: false
 comments: true
 author: Claudine Cuizon
 ---
@@ -8,6 +9,8 @@ author: Claudine Cuizon
 I love talking to my friends about our favorite items in our kikay kits and so I figured why not also share some of my few daily essentials that could probably also help some of you out there if you’re not into putting things in your face but wanting to try something out. ;)
 
 ![rsz_presentation1.jpg](/uploads/rsz_presentation1.jpg){: .center-image }
+
+1\. iWhite
 
 ![rsz_dsc_0842 (1).jpg](/uploads/rsz_dsc_0842%20(1).jpg){: .center-image }
 
