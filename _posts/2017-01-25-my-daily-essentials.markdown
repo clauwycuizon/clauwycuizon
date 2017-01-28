@@ -48,4 +48,10 @@ The new addition to my daily routine is my Dove hair serum. I’ve tried it once
 
 After taking a bath, I dry my hair and then while it is still damp, I gently apply it on my hair focusing on the roots. I don’t put any product on the top of my head because naturally, we produce oil in there so I save the product for those areas that really need it.
 
+8\. Clean and Clear Oil Control Film![rsz_dsc_0875.jpg](/uploads/rsz_dsc_0875.jpg)
+
+In the afternoon, instead of using a powder to remove the oil, the best way to do first is use an oil control film before retouching  because you would just be mixing the powder and the oil on your face. But for me, after using this, I don't have to retouch with powder.
+
+ This is retailed for 149 pesos at Watsons. There are a lot of cheaper ones (30 -50 pesos) but it doesn't really do the job! Might as well invest on this one because you won't be wasting your money on a useless product. Another great product I would recommend is the Kleenex oil control film.
+
 So that’s just about it! :) I’d also like to see your daily essentials so please share with me if you have any products to recommend. Hihi :P Thank you!
