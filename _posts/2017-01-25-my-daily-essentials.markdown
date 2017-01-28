@@ -51,6 +51,6 @@ After taking a bath, I dry my hair and then while it is still damp, I gently app
 
 In the afternoon, instead of using a powder to remove the oil, the best way to do first is use an oil control film before retouching  because you would just be mixing the powder and the oil on your face. But for me, after using this, I don't have to retouch with powder.
 
-This is retailed for 149 pesos at Watsons. There are a lot of cheaper ones (30 -50 pesos) but it doesn't really do the job! Might as well invest on this one because you won't be wasting your money on a useless product. Another great product I would recommend is the Kleenex oil control film.
+This is retailed for 149 pesos at Watsons. There are a lot of cheaper ones (30 -50 pesos) but it doesn't really do the job! Might as well invest on this one because you won't be wasting your money on a useless product. Another great product I would recommend is the Kleenex oil control film. For the boys,the Gatsby oil control sheets has a black and manly packaging so you won't have to be shy carrying it around. Haha ;)
 
 So that’s just about it! :) I’d also like to see your daily essentials so please share with me if you have any products to recommend. Hihi :P Thank you!
