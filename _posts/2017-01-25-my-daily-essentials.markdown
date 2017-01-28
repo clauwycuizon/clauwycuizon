@@ -1,7 +1,6 @@
 ---
 title: My Daily Essentials
 date: 2017-01-25 02:43:00 Z
-published: false
 comments: true
 author: Claudine Cuizon
 ---
