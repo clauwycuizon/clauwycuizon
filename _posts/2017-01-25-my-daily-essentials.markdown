@@ -13,7 +13,7 @@ I love talking to my friends about our favorite items in our kikay kits and so I
 
 This is something I’ve just been trying out for a few days now and I’m loving it! Just for reference, I have a combination oily skin, which means I have drier areas on my face but my T-zone (forehead and bridge of the nose) tend to oil up throughout the day.
 
-This is a water-based moisturizer and if you like wearing foundations, BB creams and CC creams, I  highly recommend looking out for a water-based moisturizer. This one comes in small packs like this so you can try it out to see if it works for you or not. I bought mine at the 7-11 Tibanga branch for only 22 pesos.
+This is a water-based moisturizer and if you like wearing foundations, BB creams and CC creams, I  highly recommend looking out for a water-based one. This one comes in small packs like this so you can try it out to see if it works for you or not. I bought mine at the 7-11 Tibanga branch for only 22 pesos.
 
 2\. Garnier Multi-Action Serum Cream![rsz_dsc_0839.jpg](/uploads/rsz_dsc_0839.jpg){: .center-image }
 
