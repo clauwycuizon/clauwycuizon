@@ -9,7 +9,7 @@ I love talking to my friends about our favorite items in our kikay kits and so I
 
 ![rsz_presentation1.jpg](/uploads/rsz_presentation1.jpg){: .center-image }
 
-1\. iWhite Korea Aqua Moisturizer![rsz_dsc_0842 (1).jpg](/uploads/rsz_dsc_0842%20(1).jpg){: .center-image }
+#1\. iWhite Korea Aqua Moisturizer![rsz_dsc_0842 (1).jpg](/uploads/rsz_dsc_0842%20(1).jpg){: .center-image }
 
 This is something I’ve just been trying out for a few days now and I’m loving it! Just for reference, I have a combination oily skin, which means I have drier areas on my face but my T-zone (forehead and bridge of the nose) tend to oil up throughout the day.
 
