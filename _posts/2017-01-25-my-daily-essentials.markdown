@@ -26,7 +26,7 @@ We all know the damaging effects of the sun to our face but sometimes we overloo
 
 This is my favorite powder! I bought it for 350 pesos at Agent Dolly’s online shop [here](https://www.facebook.com/agentdolly/). It’s so gentle to the skin and I’ve read testimonies about acne-prone skin who have found this powder a match made in heaven ;) Personally, I like how it doesn’t oil me up and feels very refreshing to the skin. And the packaging! Although it has no mirror, I love the soft puff it comes with and how it really looks like the one used for the baby’s bum. Hahaha
 
-Another baby powder I would highly recommend is the Pigeon baby face powder. This brand is really for babies; as a matter of fact, I bought it at the baby’s section at Gaisano Mall. (hihi) After I emptied it out, I wasn’t able to repurchase because they haven't restocked the compact powder. Gladly I learned about a baby powder that Shiseido also offers. :)
+Another baby powder I would highly recommend is the Pigeon baby face compact  powder. This brand is really for babies; as a matter of fact, I bought it at the baby’s section at Gaisano Mall. (hihi) After I emptied it out, I wasn’t able to repurchase because they haven't restocked the compact powder. Gladly I learned about a baby powder that Shiseido also offers. :)
 
 4\. Maybelline Fashion Brow Duo Shaper and Etude brow mascara![rsz_1dsc_0837.jpg](/uploads/rsz_1dsc_0837.jpg){: .center-image }
 
