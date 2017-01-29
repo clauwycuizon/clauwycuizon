@@ -661,6 +661,8 @@ header.outside_wrapper {
   display: none;
   background-image: url(../img/menu.svg);
   background-repeat: no-repeat;
+  background-color: transparent;
+  background-border: none;
   width: 40px;
   height: 40px;
   z-index: 1; }
