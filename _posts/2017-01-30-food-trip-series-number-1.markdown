@@ -6,11 +6,8 @@ Comments: true
 Author: Claudine Cuizon
 ---
 
-Asa ta mangaon?
-Ikaw lang buot!
-Wa ko kabalo.
-Asa ma’y nindot oi.
-Wa ma’y mapilian diris Iligan!!
+Asa ta mangaon? Ikaw lang buot! Wa ko kabalo.
+Asa ma’y nindot oi. Wa ma’y mapilian diris Iligan!!
 
 
 ![rsz_aiannas.jpg](/uploads/rsz_aiannas.jpg){: .center-image }
