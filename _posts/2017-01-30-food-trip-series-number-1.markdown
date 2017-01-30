@@ -18,6 +18,7 @@ Wa ma’y mapilian diris Iligan!!
 
 If you’re in Iligan, you probably had the same kind of conversation with your friends at least once. There aren’t just too many options in our city that is why I am inspired to search out for places that are just a hole in the wall but offers great food. ;)
 
+
 ![rsz_img_20170123_145049.jpg](/uploads/rsz_img_20170123_145049.jpg){: .center-image }
 
 Last January 23, 2017, after our clinical correlates lecture with Doc Van, my classmates and I decided to try Aianna's Japanese snacks and Grill-It-Yourself Yakimix  as recommended by the one and only LL! ;)
