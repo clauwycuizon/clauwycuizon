@@ -15,13 +15,13 @@ Wa ma’y mapilian diris Iligan!
 
 If you’re in Iligan, you probably had the same kind of conversation with your friends at least once. There aren’t just too many options in our city that is why I am inspired to search out for places that are just a hole in the wall but offers great food. ;)
 
+![rsz_img_20170123_145049.jpg](/uploads/rsz_img_20170123_145049.jpg){: .center-image }
+
 Last January 23, 2017, after our clinical correlates lecture with Doc Van, my classmates and I decided to try Aianna's Japanese snacks and Grill-It-Yourself Yakimix  as recommended by the one and only LL! ;)
 
 To our disappointment, the place was still being renovated and we found ourselves lost in the middle of a complete state of hunger and desperation. LOL
 
 The owner of the place was very kind and accommodating enough to shed some hope to our misery ---- after standing outside for quite some time to think of where to eat, she offered to serve us and even buy the rice for us. (Awwwweeee) We waited for a few minutes for them to set up a small table and sweep off some of the mess from the construction. Thank you so much Ma’am for allowing us to have early access! Their official reopening was scheduled the next day and we felt very honored and happy despite being so hungry!
-
-![rsz_img_20170123_145049.jpg](/uploads/rsz_img_20170123_145049.jpg){: .center-image }
 
 They have 3 special sauces:
 Curry
