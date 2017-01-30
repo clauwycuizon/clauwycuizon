@@ -52,6 +52,6 @@ I tried grill-it-yourself buffets but what sets Aianna’s apart from others is 
 
 I highly recommend this to all Iliganons out there! It is located at Pala-o, in between Shoppe 24 and B-Bu-Q.
 
-![rsz_img_1618.jpg](/uploads/rsz_img_1618.jpg)
+![rsz_img_1618.jpg](/uploads/rsz_img_1618.jpg){: .center-image }
 
 To more foodtrips! :) Om nom nom! God bless you! :D
