@@ -9,9 +9,7 @@ Asa ta mangaon?
 Ikaw lang buot!
 Wa ko kabalo.
 Asa ma’y nindot oi.
-Wa ma’y mapilian diris Iligan!
-
-![rsz_aiannas.jpg](/uploads/rsz_aiannas.jpg){: .center-image }
+Wa ma’y mapilian diris Iligan!![rsz_aiannas.jpg](/uploads/rsz_aiannas.jpg){: .center-image }
 
 If you’re in Iligan, you probably had the same kind of conversation with your friends at least once. There aren’t just too many options in our city that is why I am inspired to search out for places that are just a hole in the wall but offers great food. ;)
 
