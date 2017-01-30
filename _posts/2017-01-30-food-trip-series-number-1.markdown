@@ -1,6 +1,6 @@
 ---
 title: 'Food Trip Series # 1'
-date: 2017-01-28 14:07:00 Z
+date: 2017-01-30 14:07:00 Z
 Comments: true
 Author: Claudine Cuizon
 ---
@@ -9,7 +9,9 @@ Asa ta mangaon?
 Ikaw lang buot!
 Wa ko kabalo.
 Asa ma’y nindot oi.
-Wa ma’y mapilian diris Iligan!![rsz_aiannas.jpg](/uploads/rsz_aiannas.jpg){: .center-image }
+Wa ma’y mapilian diris Iligan!!
+
+[rsz_aiannas.jpg](/uploads/rsz_aiannas.jpg){: .center-image }
 
 If you’re in Iligan, you probably had the same kind of conversation with your friends at least once. There aren’t just too many options in our city that is why I am inspired to search out for places that are just a hole in the wall but offers great food. ;)
 
@@ -22,9 +24,7 @@ To our disappointment, the place was still being renovated and we found ourselve
 The owner of the place was very kind and accommodating enough to shed some hope to our misery ---- after standing outside for quite some time to think of where to eat, she offered to serve us and even buy the rice for us. (Awwwweeee) We waited for a few minutes for them to set up a small table and sweep off some of the mess from the construction. Thank you so much Ma’am for allowing us to have early access! Their official reopening was scheduled the next day and we felt very honored and happy despite being so hungry!
 
 They have 3 special sauces:
-Curry
-Barbecue
-And my personal favorite, Garlic Butter
+Curry,barbecue, and my personal favorite: Garlic Butter
 
 ![rsz_1img_20170123_145558.jpg](/uploads/rsz_1img_20170123_145558.jpg){: .center-image }
 
