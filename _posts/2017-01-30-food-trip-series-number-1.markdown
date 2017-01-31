@@ -1,7 +1,6 @@
 ---
 title: 'Food Trip Series # 1'
 date: 2017-01-30 14:07:00 Z
-published: false
 Comments: true
 Author: Claudine Cuizon
 ---
