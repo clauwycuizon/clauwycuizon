@@ -3,6 +3,7 @@ title: 'Food Trip Series # 1'
 date: 2017-01-30 14:07:00 Z
 Comments: true
 Author: Claudine Cuizon
+image: "/uploads/rsz_aiannas.jpg"
 ---
 
 Asa ta mangaon? Ikaw lang buot! Wa ko kabalo.
