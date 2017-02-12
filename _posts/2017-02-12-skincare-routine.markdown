@@ -5,7 +5,7 @@ date: 2017-02-12 15:51:00 Z
 
 What products do I use?
 It might give me pimples.
-That’s a complete waste of my money!AIN'T NOBODY GOT TIME FOR THAT!? haha
+That’s a complete waste of my money! AIN'T NOBODY GOT TIME FOR THAT!? haha
 
 ![Skincare.jpg](/uploads/Skincare.jpg)
 
