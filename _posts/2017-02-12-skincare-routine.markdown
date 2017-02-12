@@ -5,18 +5,14 @@ date: 2017-02-12 15:51:00 Z
 
 What products do I use?
 It might give me pimples.
-That’s a complete waste of my money!
-
-AIN'T NOBODY GOT TIME FOR THAT!? haha
+That’s a complete waste of my money!AIN'T NOBODY GOT TIME FOR THAT!? haha
 
 ![Skincare.jpg](/uploads/Skincare.jpg)
 
 If you’re like me, then you could probably relate to all of that. =)) I don’t wear heavy makeup that’s why I don’t feel the need to invest on skin care.
 I haven’t really established a good skin care routine until recently (January 2017). I’ve just been happy  using a simple soap and water for my face and felt it sufficed. Sometimes when I felt too tired, I just rinsed my face with water and I was good to go.
 
-
 When me and my Mama went to Watsons, she bought some cleansers while I took a lot of time looking at new makeup at the counter. (haha)
-
 
 She placed the Neutrogena foaming cleanser at our sink inside the comfort room so I decided to try it out and my oh my, I have never felt so squeaky clean ever!!! Hahahaha Ever since that night, I forced myself to step into the skincare world. =)))
 
